@@ -300,7 +300,7 @@ h6:before{
 .last_list{
     display: flex;
     align-items: center;
-    padding-left: 40px;
+    padding-left: 30px;
     margin-left: 30px;
     border-left: 1px solid rgb(255 255 255 / 25%);
 }
@@ -325,7 +325,7 @@ h6:before{
 /* Banner */
 
 .banner-con{
-    padding: 112px 0 118px;
+    padding: 90px 0 90px;
 }
 .banner-con .banner_content p{
     font-size: 18px;
@@ -543,7 +543,7 @@ h6:before{
 /* Client */
 
 .client-con {
-    padding: 154px 0 162px;
+    padding: 93px 0 93px;
     background: var(--e-global-color-white);
 }
 .client-con .client-sideimage{
@@ -907,7 +907,7 @@ h6:before{
     bottom: 0;
 }
 .testimonial-con .testimonial_content{
-    padding: 190px 0 162px;
+    padding: 90px 0 60px;
 }
 .testimonial-con .content{
     padding: 0 38px 0 110px;
@@ -3761,7 +3761,7 @@ to {
 :root {
     --e-global-color-primary: #282828;
     --e-global-color-secondary: white;
-    --e-global-color-accent: #215133;
+    --e-global-color-accent: #555555;;
 }
 
 .tabs {
